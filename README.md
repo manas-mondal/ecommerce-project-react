@@ -1,3 +1,3 @@
 # Frontend + Backend
 
-here all the obeall project descriptin
+Here all the overall project description
